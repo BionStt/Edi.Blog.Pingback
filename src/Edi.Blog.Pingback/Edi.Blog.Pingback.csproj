@@ -13,6 +13,8 @@
     <Authors>Edi Wang</Authors>
     <Company>edi.wang</Company>
     <Description>Pingback sender and receiver used in my blog system.</Description>
+    <RepositoryUrl>https://github.com/EdiWang/Edi.Blog.Pingback</RepositoryUrl>
+    <PackageProjectUrl>https://edi.wang</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
