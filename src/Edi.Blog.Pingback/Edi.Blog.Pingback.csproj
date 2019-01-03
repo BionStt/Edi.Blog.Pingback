@@ -15,6 +15,10 @@
     <Description>Pingback sender and receiver used in my blog system.</Description>
     <RepositoryUrl>https://github.com/EdiWang/Edi.Blog.Pingback</RepositoryUrl>
     <PackageProjectUrl>https://edi.wang</PackageProjectUrl>
+    <AssemblyVersion>10.0.1.0</AssemblyVersion>
+    <FileVersion>10.0.1.0</FileVersion>
+    <Version>10.0.1</Version>
+    <PackageTags>Blog, Pingback</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
