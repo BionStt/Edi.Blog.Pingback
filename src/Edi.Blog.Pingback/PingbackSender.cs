@@ -12,7 +12,7 @@ using System.Xml;
 
 namespace Edi.Blog.Pingback
 {
-    public class PingbackSender
+    public class PingbackSender : IPingbackSender
     {
         public ILogger<PingbackSender> Logger { get; set; }
 

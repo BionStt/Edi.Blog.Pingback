@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Edi.Blog.Pingback
 {
-    public class PingbackReceiver
+    public class PingbackReceiver : IPingbackReceiver
     {
         public static string SuccessResponseString => "<methodResponse><params><param><value><string>Thanks!</string></value></param></params></methodResponse>";
 
